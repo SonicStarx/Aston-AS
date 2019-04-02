@@ -1,0 +1,33 @@
+header
+{
+float: right;	
+}
+
+body
+{
+	width: 960px;
+	margin: 0 auto;
+}
+
+.align-center
+{
+	height: 400px;
+	width: 400px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.homeImages img
+{
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 400px;
+	width: 400px;
+}
+
+button
+{
+	margin-left: 50px;
+	margin-right: 50px;
+}
